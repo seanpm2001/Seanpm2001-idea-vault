@@ -33,37 +33,39 @@ Translations in languages other than English are machine translated and are not 
 
 [02.0 - About](#About)
 
-[03.0 - Wiki](#Wiki)
+[03.0 - Usage of idea vault ideas](#Usage-of-idea-vault-ideas)
 
-[04.0 - Version history](#Version-history)
+[04.0 - Wiki](#Wiki)
 
-[05.0 - Software status](#Software-status)
+[05.0 - Version history](#Version-history)
 
-[06.0 - Sponsor info](#Sponsor-info)
+[06.0 - Software status](#Software-status)
 
-[07.0 - Contributers](#Contributers)
+[07.0 - Sponsor info](#Sponsor-info)
 
-[08.0 - Issues](#Issues)
+[08.0 - Contributers](#Contributers)
 
-> [08.1 - Current issues](#Current-issues)
+[09.0 - Issues](#Issues)
 
-> [08.2 - Past issues](#Past-issues)
+> [09.1 - Current issues](#Current-issues)
 
-> [08.3 - Past pull requests](#Past-pull-requests)
+> [09.2 - Past issues](#Past-issues)
 
-> [08.4 - Active pull requests](#Active-pull-requests)
+> [09.3 - Past pull requests](#Past-pull-requests)
 
-[09.0 - Resources](#Resources)
+> [09.4 - Active pull requests](#Active-pull-requests)
 
-[10.0 - Contributing](#Contributing)
+[10.0 - Resources](#Resources)
 
-[11.0 - About README](#About-README)
+[11.0 - Contributing](#Contributing)
 
-[12.0 - README Version history](#README-version-history)
+[12.0 - About README](#About-README)
 
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+[13.0 - README Version history](#README-version-history)
 
-> [13.9 - End of file](#EOF)
+[14.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+
+> [14.9 - End of file](#EOF)
 
 ***
 
@@ -75,6 +77,14 @@ This is the master collection of my great (and not so great) ideas. I have decid
 ## About
 
 See above. This repository is here to house my Seanpm2001 Idea Vault gameplay images when I get the game running again.
+
+***
+
+# Usage of idea vault ideas
+
+In order to use any of the ideas here, you can't claim them as your own, but you can modify, redistribute, and re-release them. For re-releases and re-distribution, please give credit and don't claim it as your own. I don't require anything other than that.
+
+Info taken from [here](USAGE.md).
 
 ***
 
@@ -216,9 +226,9 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Wednesday, March 31st 2021 at 12:58 pm)`
+File version: `2 (Wednesday, March 31st 2021 at 1:03 pm)`
 
-Line count: `0,284`
+Line count: `0,316`
 
 ***
 
@@ -264,13 +274,35 @@ Version 1 (Wednesday, March 31st 2021 at 12:58 pm)
 
 > * No other changes in version 0.1
 
-Version 2 (Coming soon)
+Version 2 (Wednesday, March 31st 2021 at 1:03 pm)
+
+> Changes:
+
+> * Added usage notes
+
+> * Updated the index
+
+> * Added the file info section
+
+> * Added the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
